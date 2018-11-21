@@ -6,4 +6,4 @@ based on Bot’s health, Bot’s ammo and Player’s offensive or defensive posi
 -	Membership functions and Fuzzy rules are defined in Mamdani System and then converted to Takage-Sugeno System 
 for calculating the Output of the Fuzzy system.
 
-[Fuzzy System Design and Rule Base](AutoBot.pdf)
+[Fuzzy System Design and Rule Base of the project](AutoBot.pdf)
