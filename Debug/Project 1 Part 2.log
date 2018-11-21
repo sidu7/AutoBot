@@ -1,0 +1,9 @@
+﻿  GameState_Asteroids.c
+c:\users\sidu\desktop\autobot\src\gamestate_asteroids.c(640): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+c:\users\sidu\desktop\autobot\src\gamestate_asteroids.c(1100): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sidu\desktop\autobot\src\gamestate_asteroids.c(1106): warning C4029: declared formal parameter list different from definition
+c:\users\sidu\desktop\autobot\src\gamestate_asteroids.c(1145): warning C4101: 'bmid': unreferenced local variable
+c:\users\sidu\desktop\autobot\src\gamestate_asteroids.c(1145): warning C4101: 'hmid': unreferenced local variable
+c:\users\sidu\desktop\autobot\src\gamestate_asteroids.c(1145): warning C4101: 'pmid': unreferenced local variable
+c:\users\sidu\desktop\autobot\src\gamestate_asteroids.c(1145): warning C4101: 'amid': unreferenced local variable
+  Project 1 Part 2.vcxproj -> C:\Users\Sidu\Desktop\AutoBot\Debug\Project 1 Part 2.exe
